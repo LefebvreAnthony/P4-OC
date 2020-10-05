@@ -507,6 +507,7 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    margin: 8px;
 }
 
 .scrollToTop {
@@ -775,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color:white!important;
 }
 
 .btn-atomic-tangerine {
@@ -825,6 +826,15 @@ h4 {
 }
 .color-a{
     color: #424242;
+}
+li{
+    
+    margin: 8px;
+}
+.col-sm-4{
+    color:white;
+}
+
 
 @media (max-width: 1024px) {
     .bloc {
