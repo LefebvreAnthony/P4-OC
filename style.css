@@ -702,6 +702,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto 40px auto;
+    font-size: 40px;
 }
 
 h2,
@@ -826,6 +827,7 @@ h4 {
 }
 .color-a{
     color: #424242;
+    font-size: 18px;
 }
 li{
     
